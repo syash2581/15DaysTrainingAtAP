@@ -8,4 +8,4 @@ Tasks Performed
 -Intsallation of android studio and SDK.
 
 
-Please check screenshot folder to see snapshot or video of application.
+Note : Please check screenshot folder to see snapshot or video of application.
