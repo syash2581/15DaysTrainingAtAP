@@ -9,7 +9,11 @@
   - Introduction to Android
 
 #
-- [ ] ***day2 26-05-2021***
+- [X] ***day2 26-05-2021***
+  - Hello world application in android studio
+  - introduction to AVD(Android Virtual Device)
+  - Learning textview and its properties
+  - Understanding View and ViewGroup class
 
 #
 - [ ] ***day3 27-05-2021*** 
