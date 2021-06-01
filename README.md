@@ -16,7 +16,11 @@
   - Understanding View and ViewGroup class
 
 #
-- [ ] ***day3 27-05-2021*** 
+- [X] ***day3 27-05-2021*** 
+  - Understanding Linear Layout
+  - Use of basic UI elements and its properties
+  - Making a samll application using UI controls
+  - Use of Toast 
 
 #
 - [ ] ***day4 28-05-2021*** 
