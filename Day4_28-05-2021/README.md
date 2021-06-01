@@ -7,4 +7,4 @@ Training Day 4
 
 - [X] Create Different screen using UI elements
 - [X] Basic Calc (Addition and Subtraction)
-- [X] Somoe examples to do by yourself
+- [X] Some examples to do by yourself
