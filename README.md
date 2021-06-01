@@ -36,7 +36,11 @@
  
 
 #
-- [ ] ***day6 30-05-2021*** 
+- [X] ***day6 30-05-2021*** 
+  - splash screen
+  - overriding onPause() method to kill the process
+  - hide title bar and action bar
+  - play song
 
 #
 - [ ] ***day7 31-05-2021*** 
