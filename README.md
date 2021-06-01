@@ -23,10 +23,17 @@
   - Use of Toast 
 
 #
-- [ ] ***day4 28-05-2021*** 
+- [X] ***day4 28-05-2021*** 
+  - Create Different screen using UI elements
+  - Basic Calc (Addition and Subtraction)
+  - Some examples to do by yourself
 
 #
-- [ ] ***day5 29-05-2021*** 
+- [X] ***day5 29-05-2021***
+  - Understaing activity life cycle
+  - Use of Explicit Intent
+  - Use of implicit Intent
+ 
 
 #
 - [ ] ***day6 30-05-2021*** 
