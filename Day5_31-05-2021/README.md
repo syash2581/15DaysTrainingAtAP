@@ -3,7 +3,7 @@
 
 Training Day 5
 
-###### Tasks Performed
+# Tasks Performed
 
 - [X] Understaing activity life cycle
 - [X] Use of Explicit Intent
