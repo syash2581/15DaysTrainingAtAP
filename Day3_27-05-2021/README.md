@@ -3,7 +3,8 @@
 
 Training Day 3
 
-###### Tasks Performed
+
+# Tasks Performed
 
 - [X] Understanding Linear Layout
 - [X] Use of basic UI elements and its properties
