@@ -53,7 +53,10 @@
   - Horizontal ScrollBar
 
 #
-- [ ] ***day8 03-06-2021*** 
+- [X] ***day8 03-06-2021***
+  - Custom List View
+    - Extending BaseAdapter and implementing override methods
+  - Custom Grid View 
 
 #
 - [ ] ***day9 04-06-2021*** 
