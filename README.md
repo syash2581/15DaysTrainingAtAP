@@ -29,42 +29,49 @@
   - Some examples to do by yourself
 
 #
-- [X] ***day5 29-05-2021***
+- [X] ***day5 31-05-2021***
   - Understaing activity life cycle
   - Use of Explicit Intent
   - Use of implicit Intent
  
 
 #
-- [X] ***day6 30-05-2021*** 
+- [X] ***day6 01-06-2021*** 
   - splash screen
   - overriding onPause() method to kill the process
   - hide title bar and action bar
   - play song
 
 #
-- [ ] ***day7 31-05-2021*** 
+- [X] ***day7 02-06-2021*** 
+  - List View
+    - Array Adapter (List.setAdapter)
+- Grid View
+- Recycler View
+- ScrollBar 
+  - Vertical ScrollBar
+  - Horizontal ScrollBar
 
 #
-- [ ] ***day8 01-06-2021*** 
+- [ ] ***day8 03-06-2021*** 
 
 #
-- [ ] ***day9 02-06-2021*** 
+- [ ] ***day9 04-06-2021*** 
 
 #
-- [ ] ***day10 03-06-2021*** 
+- [ ] ***day10 07-06-2021*** 
 
 #
-- [ ] ***day11 04-06-2021*** 
+- [ ] ***day11 08-06-2021*** 
 
 #
-- [ ] ***day12 05-06-2021*** 
+- [ ] ***day12 09-06-2021*** 
 
 #
-- [ ] ***day13 06-06-2021*** 
+- [ ] ***day13 10-06-2021*** 
 
 #
-- [ ] ***day14 07-06-2021*** 
+- [ ] ***day14 11-06-2021*** 
 
 #
-- [ ] ***day15 08-06-2021*** 
+- [ ] ***day15 14-06-2021*** 
