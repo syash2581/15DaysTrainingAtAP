@@ -44,25 +44,25 @@
 
 #
 - [X] ***day7 02-06-2021*** 
-- List View
+  - List View
    - Array Adapter (List.setAdapter)
-- Grid View
-- Recycler View
-- ScrollBar 
-  - Vertical ScrollBar
-  - Horizontal ScrollBar
+  - Grid View
+  - Recycler View
+  - ScrollBar 
+   - Vertical ScrollBar
+   - Horizontal ScrollBar
 
 #
 - [X] ***day8 03-06-2021***
-- Custom List View
-  - Extending BaseAdapter and implementing override methods
-- Custom Grid View 
+  - Custom List View
+   - Extending BaseAdapter and implementing override methods
+  - Custom Grid View 
 
 #
 - [X] ***day9 04-06-2021***
-- SharedPreferences
-  - getSharedPreferences and Editor
-- moveTaskToBack(true); => to kill entire application from any activity. 
+  - SharedPreferences
+   - getSharedPreferences and Editor
+  - moveTaskToBack(true); => to kill entire application from any activity. 
 
 #
 - [ ] ***day10 07-06-2021*** 
