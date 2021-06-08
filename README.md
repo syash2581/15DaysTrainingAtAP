@@ -65,19 +65,10 @@
   - moveTaskToBack(true); => to kill entire application from any activity. 
 
 #
-- [ ] ***day10 07-06-2021*** 
-
-#
-- [ ] ***day11 08-06-2021*** 
-
-#
-- [ ] ***day12 09-06-2021*** 
-
-#
-- [ ] ***day13 10-06-2021*** 
-
-#
-- [ ] ***day14 11-06-2021*** 
-
-#
-- [ ] ***day15 14-06-2021*** 
+- [X] ***day10 07-06-2021***
+  - Implicit Intent Part-2
+    - Making a call
+    - Sending a mail
+    - Sending a sms
+  - Playing an audio using MediaPlayer
+  - Playing a video using VideoView and MediaController
