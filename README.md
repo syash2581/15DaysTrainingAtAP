@@ -72,3 +72,8 @@
     - Sending a sms
   - Playing an audio using MediaPlayer
   - Playing a video using VideoView and MediaController
+ 
+ #
+ - [X] ***Project***
+   - Bhakti Application - Devotional App
+   - https://www.tinyurl.com/BhaktiApplication
